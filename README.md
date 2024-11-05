@@ -1,8 +1,8 @@
-# Professional Product Management System
+# Product Management System
 
 ## Description
 
-This project is a **Professional Product Management System** developed in Python using the Tkinter library for the graphical user interface (GUI). This system was created as a learning endeavor to deepen my understanding of Python programming, GUI development, and data management practices. Through this project, I aimed to apply theoretical knowledge in a practical context while addressing real-world inventory management challenges.
+This project is a **Product Management System** developed in Python using the Tkinter library for the graphical user interface (GUI). This system was created as a learning endeavor to deepen my understanding of Python programming, GUI development, and data management practices. Through this project, I aimed to apply theoretical knowledge in a practical context while addressing real-world inventory management challenges.
 
 The system is designed to provide a comprehensive solution for adding, listing, and monitoring products in inventory, making it suitable for use in commercial environments. While it demonstrates core functionalities typical of a product management application, it's important to acknowledge the limitations inherent in its current implementation, including potential scalability issues and the need for enhanced error handling.
 
@@ -27,7 +27,7 @@ The system is designed to provide a comprehensive solution for adding, listing, 
 
 ## Limitations
 
-While the **Professional Product Management System** serves its intended purpose, it has several limitations:
+While the **Product Management System** serves its intended purpose, it has several limitations:
 - **Scalability**: The current implementation is suitable for small to medium-sized inventories. For larger inventories, enhancements may be required to ensure optimal performance.
 - **Error Handling**: The system lacks comprehensive error handling, which may lead to unexpected behaviors if users enter invalid data.
 - **User Authentication**: The application does not currently include user authentication or authorization features, which would be necessary for multi-user environments.
